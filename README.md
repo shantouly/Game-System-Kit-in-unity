@@ -5,3 +5,5 @@
   [背包系统](https://github.com/shantouly/Inventory-System)  
 ## Dialogue System 对话系统  
   [对话系统](https://github.com/shantouly/DialogueSystem)  
+## RedPointSysatem 红点系统  
+  [红点系统](https://github.com/shantouly/RedPointSystem)  
